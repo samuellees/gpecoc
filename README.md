@@ -2,7 +2,7 @@
 
 Genetic Programming based Error Correcting Output Codes
 
-This is the implementation for paper: 《A Novel Error-Correcting Output Code Algorithm Based on Genetic Programming》
+This is the implementation for paper: [A Novel Error-Correcting Output Code Algorithm Based on Genetic Programming](<https://www.sciencedirect.com/science/article/abs/pii/S2210650219302044>)
 
 ## Acknowledgement
 
